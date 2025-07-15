@@ -121,13 +121,6 @@ http://localhost:8080/index.html
   "completed": false
 }
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## 🙋‍♂️ Author
